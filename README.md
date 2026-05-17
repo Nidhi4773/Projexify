@@ -110,7 +110,7 @@ npm start
 
 ---
 
-# 👨‍💻 Developer
+# 👨‍💻 Developed By
 
 Nidhi Kumari
 
